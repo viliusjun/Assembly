@@ -23,5 +23,5 @@ The comments in the codes are written in Lithuanian, so I'll tell you what these
 
   This program disassembles the "MOV regsiter/memory, operand" command of x86 assembly language. 
   With the programmed single-step interept's help we disassemble only our MOV command.
-  We print out the type of interupt that happens, then the address of the command, the command's machine code, the mnemonic of the command, the values and addresses that of registers that are used in that command.
+  We print out the type of interupt that happens, then the address of the command, the command's machine code, the mnemonic of the command, the values and addresses that of registers that are used in that command. 
   
